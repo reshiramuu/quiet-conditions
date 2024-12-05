@@ -13,7 +13,7 @@ The mod is available as a mod in the Thunderstore Mod Catalogue. This is the rec
 - Drag the "quiet conditions.dll" file into BepInEx/plugins directory. If the folder does not already exist, create one in your ATLYSS installation directory.
   - If using r2modman/Thunderstore already for other mods, which automatiically makes the BepInEx folder, the location of your ATLYSS mods can be found by the following steps:
   - ![1](https://media.discordapp.net/attachments/1312741526765436991/1314108296839565343/image.png?ex=67529238&is=675140b8&hm=8e1ebb2baa9e038b6c6d8f02c185e4e34902079f77019d009cbfa7a0ddd5218a&=&format=webp&quality=lossless&width=1920&height=739)
-  - ![2](https://media.discordapp.net/attachments/1312741526765436991/1314108658673778789/image.png?ex=6752928f&is=6751410f&hm=12d37c32722d87a413eb76aec36c7409ff9745a5548fc8e5e2b4dafb0addab5a&=&format=webp&quality=lossless&width=1774&height=993)
+  - ![2](https://media.discordapp.net/attachments/1312741526765436991/1314118986153197618/image.png?ex=67529c2d&is=67514aad&hm=93677f67bebcaa10657625a8c5d48f7c12a95746d0b2d83d1c56547862b0dc19&=&format=webp&quality=lossless&width=1755&height=991)
   - Navigate through ATLYSS -> profiles -> Default -> BepInEx -> plugins
   - Drag the extacted folder from the Manual Download button here.
 - Run ATLYSS and verify installation success.
